@@ -1,0 +1,4 @@
+#compled python files
+*.pyc
+*.pyo
+*.pyd
